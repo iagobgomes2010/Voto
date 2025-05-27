@@ -13,4 +13,4 @@ while True:
         print('Resposta enviada com sucesso!')
     else:
         print(f'Erro ao enviar: {response.status_code}')
-    time.sleep(1)
+    time.sleep(143)
