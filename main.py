@@ -4,7 +4,7 @@ import time
 form_url = 'https://docs.google.com/forms/d/e/1FAIpQLSeWXyIqcleTTfZj01oO_ZqdZ92AD96ldbAULxDRMjzawcxwyw/formResponse'
 
 data = {
-    'entry.474209580': 'Equipe mãos limpas, cuidado seguro (Setor: auditoria)'
+    'entry.1421571259': 'Equipe mãos limpas, cuidado seguro (Setor: auditoria)'
 }
 
 while True:
